@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+12V Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U6-2
+Removed Pin From Net: NetName=GND Pin=U6-3
+Removed Member From Class: ClassName=12V to5v_5V to 3.3V Member=U6
+Added Room: Name=12V to5v_5V to 3.3V
+Added Room: Name=RS485
+Added Room: Name=STM32F103C8T6

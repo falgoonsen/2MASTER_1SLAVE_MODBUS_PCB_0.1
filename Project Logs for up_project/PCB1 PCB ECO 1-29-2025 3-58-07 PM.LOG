@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=Net1_1 Pin=1-1
+Removed Pin From Net: NetName=Net1_4 Pin=1-4
+Removed Pin From Net: NetName=Net2_1 Pin=2-1
+Removed Pin From Net: NetName=Net2_4 Pin=2-4
+Removed Pin From Net: NetName=Net1_1 Pin=R9-1
+Removed Pin From Net: NetName=Net1_4 Pin=R10-1
+Removed Pin From Net: NetName=Net2_1 Pin=R15-1
+Removed Pin From Net: NetName=Net2_4 Pin=R16-1
+Change Component Designator: OldDesignator= NewDesignator=1
+Change Component Designator: OldDesignator=1 NewDesignator=2
+Change Component Designator: OldDesignator=2 NewDesignator=3
+Change Component Designator: OldDesignator=U4 NewDesignator=U6
+Change Component Designator: OldDesignator=U5 NewDesignator=U7
+Change Component Designator: OldDesignator=U6 NewDesignator=U5
+Added Component: Designator=U2(8-VSSOP)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftxs0102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C53434"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "TXS0102DCUR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VSSOP-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 Channel 24Mbps"; VariantName = "[No Variations]"
+Added Component: Designator=U3(8-VSSOP)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftxs0102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C53434"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "TXS0102DCUR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VSSOP-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 Channel 24Mbps"; VariantName = "[No Variations]"
+Added Component: Designator=U4(8-VSSOP)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftxs0102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C53434"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "TXS0102DCUR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VSSOP-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 Channel 24Mbps"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net1_1 Pin=1-1
+Added Pin To Net: NetName=Net1_4 Pin=1-4
+Added Pin To Net: NetName=Net2_1 Pin=2-1
+Added Pin To Net: NetName=Net2_4 Pin=2-4
+Added Pin To Net: NetName=Net1_1 Pin=R3-1
+Added Pin To Net: NetName=Net1_4 Pin=R4-1
+Added Pin To Net: NetName=Net2_1 Pin=R9-1
+Added Pin To Net: NetName=Net2_4 Pin=R10-1
+Added Pin To Net: NetName=Net1_4 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=V_MCU_3.3V Pin=U2-3
+Added Pin To Net: NetName=USART1_TX1 Pin=U2-4
+Added Pin To Net: NetName=USART1_RX1 Pin=U2-5
+Added Pin To Net: NetName=V_MCU_3.3V Pin=U2-6
+Added Pin To Net: NetName=+5V Pin=U2-7
+Added Pin To Net: NetName=Net1_1 Pin=U2-8
+Added Pin To Net: NetName=Net2_4 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=V_MCU_3.3V Pin=U3-3
+Added Pin To Net: NetName=USART2_TX2 Pin=U3-4
+Added Pin To Net: NetName=USART2_RX2 Pin=U3-5
+Added Pin To Net: NetName=V_MCU_3.3V Pin=U3-6
+Added Pin To Net: NetName=+5V Pin=U3-7
+Added Pin To Net: NetName=Net2_1 Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=V_MCU_3.3V Pin=U4-3
+Added Pin To Net: NetName=USART3_TX3 Pin=U4-4
+Added Pin To Net: NetName=USART3_RX3 Pin=U4-5
+Added Pin To Net: NetName=V_MCU_3.3V Pin=U4-6
+Added Pin To Net: NetName=+5V Pin=U4-7
+Added Pin To Net: NetName=Net3_1 Pin=3-1
+Added Pin To Net: NetName=Net3_1 Pin=R15-1
+Added Pin To Net: NetName=Net3_1 Pin=U4-8
+Added Net: Name=Net3_1
+Added Pin To Net: NetName=Net3_4 Pin=3-4
+Added Pin To Net: NetName=Net3_4 Pin=R16-1
+Added Pin To Net: NetName=Net3_4 Pin=U4-1
+Added Net: Name=Net3_4
