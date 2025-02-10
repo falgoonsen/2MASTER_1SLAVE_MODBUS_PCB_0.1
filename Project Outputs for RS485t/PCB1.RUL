@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\Embedded system\KEIL PROJECT\upworks\2MASTER_1SLAVE_MODBUS_PCB_0.1\PCB1.PcbDoc
+RuleKind=Width|RuleName=Width_2|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
